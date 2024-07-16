@@ -1,0 +1,8 @@
+lightning~=2.2.1
+pandas~=2.1.4
+torch~=2.2.2+cu118
+torchvision~=0.17.2+cu118
+pillow~=10.2.0
+matplotlib~=3.8.0
+requests~=2.31.0
+msrest~=0.7.1
